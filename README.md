@@ -157,33 +157,6 @@ const diego = {
 
 ---
 
-## 📜 Certificaciones
-
-| Certificación | Institución |
-|---|---|
-| 🏅 Excel Skills for Business: Intermediate I | Coursera |
-| 🏅 Scrum Fundamentals Certified | SCRUMstudy |
-| 🏅 Distributed Computing with Spark SQL | Coursera |
-| 🏅 Academic Process Mining Fundamentals | Celonis |
-| 🏅 SQL for Data Science Capstone Project | Coursera |
-| 🏅 Python Data Structures | Coursera |
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🅿️ Safe Parking
-
-> Aplicación web para que conductores encuentren opciones de estacionamiento seguras, rápidas y cercanas.
-
-[![Ver proyecto](https://img.shields.io/badge/🌐_Ver_Proyecto-safe--parking.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://safe-parking.netlify.app/)
-
-- Lideré el desarrollo completo de la plataforma web
-- Enfoque en experiencia de usuario y eficiencia de búsqueda en tiempo real
-- Despliegue en Netlify
-
----
-
 ## 🌐 Conéctate conmigo
 
 <div align="center">
