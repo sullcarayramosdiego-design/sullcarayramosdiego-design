@@ -47,18 +47,6 @@ const diego = {
 | `Sep 2024 – May 2025` | **Triton Trading S.A.** | Practicante Sistemas TI & Datos | Power BI, ETL, SAP, Microsoft Azure, Active Directory, WordPress, Postman |
 | `Ene 2024 – Mar 2024` | **Municipalidad de Huancavelica** | Asistente Técnico | Soporte TI, equipos AV, sala de control técnico |
 
-### 🏢 Nettalco — Funciones destacadas *(Dic 2025 – Actualidad)*
-
-- 🔧 **Orquestación de servidores** con Dokploy y Coolify para despliegues en producción
-- 🚀 **Automatización CI/CD** mediante pipelines en GitLab para el ciclo de vida del software
-- 🌐 **Desarrollo fullstack** con Angular (frontend) y Node.js (backend)
-- 🤖 **IA Generativa** para creación automática de materiales y optimización de tareas
-- 🔗 **Integración de sistemas** mediante flujos inteligentes en n8n
-- 🗄️ **Optimización de consultas críticas** con PL/SQL en Oracle
-- 🐳 **Gestión de contenedores** con Docker para paridad entre entornos
-
----
-
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
