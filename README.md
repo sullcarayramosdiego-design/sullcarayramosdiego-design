@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-> *"Transformando procesos empresariales con código limpio, arquitecturas escalables e inteligencia artificial."*
+ *"Transformando procesos empresariales con código limpio, arquitecturas escalables e inteligencia artificial."*
 
 </div>
 
