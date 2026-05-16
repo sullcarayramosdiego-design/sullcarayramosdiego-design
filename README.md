@@ -1,48 +1,70 @@
-# ¡Hola! Soy Diego Denilson Sullcaray Ramos 👋
+<div align="center">
 
-Soy un Ingeniero de Sistemas de Información y Analista de Sistemas Junior enfocado en el desarrollo full-stack, la arquitectura web y la integración de sistemas. 
+<!-- Título Animado -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Diego+Denilson+Sullcaray+Ramos+👋;Ingeniero+de+Sistemas+de+Información;Analista+de+Sistemas+y+Desarrollador+Full-Stack;Apasionado+por+la+Arquitectura+Web" alt="Typing SVG" />
+</a>
 
-Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando herramientas modernas para resolver problemas complejos. Aspiro a liderar proyectos que impulsen la transformación digital, con un enfoque en el desarrollo de aplicaciones escalables, robustas y el despliegue optimizado de infraestructura. Mis intereses abarcan desde la gestión integral de bases de datos hasta la orquestación de sistemas corporativos, siempre buscando combinar tecnología de vanguardia con un impacto real y directo en los procesos empresariales.
+<p align="center">
+  Me motiva crear soluciones tecnológicas innovadoras y eficientes. Aspiro a liderar proyectos que impulsen la transformación digital, desarrollando aplicaciones escalables y arquitecturas robustas.
+</p>
 
 ---
 
-### 💻 Programación
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+### 🛠️ Tecnologías y Herramientas
 
-### 🚀 Frameworks
-![Angular](https://img.shields.io/badge/Angular_17%2B-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+<!-- Programación y Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular_17%2B-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
 
-### ⚙️ Tecnologías y Bases de Datos
-![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<!-- Bases de Datos y Nube -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-### 🛠️ Herramientas y DevOps
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=flat-square&logo=linux&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-601BEB?style=flat-square&logo=server&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<!-- DevOps e Infraestructura -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Dokploy" />
+  <img src="https://img.shields.io/badge/Coolify-601BEB?style=for-the-badge&logo=server&logoColor=white" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sullcarayramosdiego-design&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullcarayramosdiego-design&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" />
-</div>
+<!-- Tarjetas de estadísticas con diseño limpio y sin bordes -->
+<p align="center">
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img src="https://github-readme-stats.vercel.app/api?username=sullcarayramosdiego-design&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777" height="160" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullcarayramosdiego-design&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=777777" height="160" alt="Lenguajes más usados" />
+  </a>
+</p>
 
 ---
 
-### 🌐 Social
+### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TU_ENLACE_LINKEDIN)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](ENLACE_A_TU_PORTAFOLIO_SI_APLICA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+<p align="center">
+  <a href="TU_ENLACE_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+</div>
