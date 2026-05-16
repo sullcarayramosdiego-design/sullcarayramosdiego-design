@@ -37,16 +37,6 @@ const diego = {
 ```
 
 ---
-
-## 💼 Experiencia Profesional
-
-| Período | Empresa | Cargo | Tecnologías clave |
-|---|---|---|---|
-| `Dic 2025 – Actualidad` | **Industrias Nettalco S.A.** | Analista de Sistemas Jr. | Angular, Node.js, Oracle PL/SQL, GitLab CI/CD, Docker, Dokploy, Coolify, n8n, IA Generativa |
-| `Jun 2025 – Dic 2025` | **Industrias Nettalco S.A.** | Practicante de Desarrollo TI | Angular 19, Node.js, Oracle Forms → Web, PL/SQL, Postman, API REST |
-| `Sep 2024 – May 2025` | **Triton Trading S.A.** | Practicante Sistemas TI & Datos | Power BI, ETL, SAP, Microsoft Azure, Active Directory, WordPress, Postman |
-| `Ene 2024 – Mar 2024` | **Municipalidad de Huancavelica** | Asistente Técnico | Soporte TI, equipos AV, sala de control técnico |
-
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
