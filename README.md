@@ -35,8 +35,8 @@ Me motiva crear soluciones tecnológicas innovadoras y eficientes, utilizando he
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sullcarayramosdiego-design&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullcarayramosdiego-design&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
