@@ -83,25 +83,6 @@ const diego = {
 
 ---
 
-### 🤖 Automatización & IA
-
-| Herramienta | Propósito | Nivel |
-|---|---|---|
-| ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) **n8n** | Automatización de flujos e integración de sistemas | Básico |
-| 🧠 **IA Generativa** | Automatización de tareas, creación de materiales | Intermedio |
-
----
-
-### 🏢 Gestión Empresarial
-
-| Herramienta | Nivel |
-|---|---|
-| ![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white) SAP S/4HANA | Intermedio |
-| ![MS Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat-square&logo=microsoft&logoColor=white) Microsoft Project | Intermedio |
-| ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) Microsoft Office | Intermedio |
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
